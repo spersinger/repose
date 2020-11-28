@@ -4,12 +4,15 @@
 Repose is a design system made for text-heavy interfaces, such as text editors, terminals, and web pages. The colors are designed to be consistent in perceived brightness and easy on the eyes while remaining high-contrast.
 
 ## Support
+Support for applications may vary. Most of the applications listed have the ability to be fully redesigned, but some (Notepad++, Visual Studio) can only be color themed.
+
 * **GUI Frameworks**
   * [ ] GTK
   * [ ] Qt
 * **Miscellaneous Applications**
   * [ ] Discord
   * [ ] `dmenu`
+  * [ ] Firefox
   * [ ] Obsidian
   * [ ] `rofi`
   * [ ] Zathura
@@ -35,7 +38,10 @@ Repose is a design system made for text-heavy interfaces, such as text editors, 
   * [ ] Visual Studio Code
   * [ ] Visual Studio
 * **Web Sites**
+  * [ ] DuckDuckGo
   * [ ] GitHub
+  * [ ] Google
+    * [ ] Google Docs
 * **Window Managers**
   * [ ] Openbox
   
