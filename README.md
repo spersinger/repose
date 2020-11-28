@@ -39,4 +39,4 @@ Repose is a color scheme made for text-heavy interfaces, such as text editors, t
 * **Window Managers**
   * [ ] Openbox
   
-*Have an idea for an application that should be themed? Feel free to leave an [issue]()!*
+*Have an idea for an application that should be themed? Feel free to leave an [issue]()! Applications that require GUI modifications will need to wait for a design system to allow for a unified look across applications.*
