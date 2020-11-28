@@ -5,7 +5,7 @@ colors:
 
   selection:
     text: '#47494B'
-    background: '#8F8E84'
+    background: '#BEBBA9'
 
   normal:
     black:   '0x333538'
