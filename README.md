@@ -6,7 +6,7 @@ Repose is a design system made for text-heavy interfaces, such as text editors, 
 ## Screenshots
 
 ### (WIP) Syntax Highlighting
-<img src="https://cdn.discordapp.com/attachments/736609346623897635/782305359917350962/unknown.png" width=50% height=50%>
+<img src="https://cdn.discordapp.com/attachments/736609346623897635/782305359917350962/unknown.png" width=75% height=75%>
 
 ## Support
 Support for applications may vary. Most of the applications listed have the ability to be fully redesigned, but some (Notepad++, Visual Studio) can only be color themed.
