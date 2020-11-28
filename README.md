@@ -1,2 +1,3 @@
-# repose
-A distinct, consistent, and eye-pleasing theme for terminals and editors.
+<img src="https://i.imgur.com/ALg2lUn.png"><br>
+<h1 align="center"><i><code>repose</code><i></h1><br>
+<p align="center"<i>n. quietness; ease; peace; calmness.</i></p>
