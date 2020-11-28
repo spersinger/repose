@@ -42,6 +42,7 @@ Support for applications may vary. Most of the applications listed have the abil
   * [ ] GitHub
   * [ ] Google
     * [ ] Google Docs
+  * [ ] monkeytype
 * **Window Managers**
   * [ ] Openbox
   
