@@ -4,8 +4,8 @@ colors:
     foreground: '0x333538'
 
   selection:
-    text: '#47494B'
-    background: '#BEBBA9'
+    text: '0x47494B'
+    background: '0xBEBBA9'
 
   normal:
     black:   '0x333538'
