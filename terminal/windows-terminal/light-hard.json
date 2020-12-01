@@ -1,0 +1,27 @@
+{
+    "name": "repose light hard",
+
+    "cursorColor": "#333538",
+    "selectionBackground": "#BEBBA9",
+
+    "background": "#F4F0D9",
+    "foreground": "#333538",
+
+    "black": "#333538",
+    "blue": "#2780AD",
+    "cyan": "#3AAD89",
+    "green": "#3E9930",
+    "purple": "#A43BAF",
+    "red": "#A52632",
+    "white": "#8F8E84",
+    "yellow": "#C68E13",
+
+    "brightBlack": "#47494B",
+    "brightBlue": "#589BBC",
+    "brightCyan": "#54C4A0",
+    "brightGreen": "#62AF56",
+    "brightPurple": "#BB5CC4",
+    "brightRed": "#C43C53",
+    "brightWhite": "#D6D2BC",
+    "brightYellow": "#BEBBA9"
+}

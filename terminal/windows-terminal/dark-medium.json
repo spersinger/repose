@@ -1,0 +1,27 @@
+{
+    "name": "repose dark medium",
+
+    "cursorColor": "#D6D2BC",
+    "selectionBackground": "#47494B",
+
+    "background": "#2F3338",
+    "foreground": "#D6D2BC",
+
+    "black": "#47494B",
+    "blue": "#589BBC",
+    "cyan": "#54C4A0",
+    "green": "#62AF56",
+    "purple": "#BB5CC4",
+    "red": "#C43C53",
+    "white": "#BEBBA9",
+    "yellow": "#E0AC33",
+
+    "brightBlack": "#5F605E",
+    "brightBlue": "#3B78FF",
+    "brightCyan": "#6DD6B6",
+    "brightGreen": "#5DC652",
+    "brightPurple": "#C678CD",
+    "brightRed": "#FF4A59",
+    "brightWhite": "#D6D2BC",
+    "brightYellow": "#FFCC56"
+}
