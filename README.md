@@ -31,7 +31,7 @@ Support for applications may vary. Most of the applications listed have the abil
   * [ ] PuTTY
   * [ ] st
   * [ ] Termite
-  * [ ] urxvt
+  * [x] urxvt
   * [ ] xfce4-terminal
   * [ ] xterm
 * **Text Editors**
