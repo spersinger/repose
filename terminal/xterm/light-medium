@@ -1,0 +1,21 @@
+! Colors
+XTerm*background:  #EFEAD0
+XTerm*foreground:  #333538
+
+XTerm*color0:      #333538
+XTerm*color1:      #A52632
+XTerm*color2:      #3E9930
+XTerm*color3:      #C68E13
+XTerm*color4:      #2780AD
+XTerm*color5:      #A43BAF
+XTerm*color6:      #3AAD89
+XTerm*color7:      #8F8E84
+
+XTerm*color8:      #47494B
+XTerm*color9:      #C43C53
+XTerm*color10:     #62AF56
+XTerm*color11:     #E0AC33
+XTerm*color12:     #589BBC
+XTerm*color13:     #BB5CC4
+XTerm*color14:     #54C4A0
+XTerm*color15:     #BEBBA9
