@@ -33,7 +33,7 @@ Support for applications may vary. Most of the applications listed have the abil
   * [ ] Termite
   * [x] urxvt
   * [ ] xfce4-terminal
-  * [ ] xterm
+  * [x] xterm
   * [x] Windows Terminal
 * **Text Editors**
   * [ ] Emacs
