@@ -34,6 +34,7 @@ Support for applications may vary. Most of the applications listed have the abil
   * [x] urxvt
   * [ ] xfce4-terminal
   * [ ] xterm
+  * [x] Windows Terminal
 * **Text Editors**
   * [ ] Emacs
   * [ ] JetBrains Editors
