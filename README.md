@@ -48,7 +48,7 @@ Support for applications may vary. Most of the applications listed have the abil
   * [ ] GitHub
   * [ ] Google
     * [ ] Google Docs
-  * [ ] monkeytype
+  * [x] monkeytype ([in progress](https://github.com/Miodec/monkeytype/pull/674))
 * **Window Managers**
   * [ ] Openbox
   
