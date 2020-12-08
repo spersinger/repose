@@ -2,7 +2,11 @@ colors:
   primary:
     background: '0x292D30'
     foreground: '0xD6D2BC'
-    
+  
+  selection:
+    text: '0xBEBBA9'
+    background: '0x47494B'
+
   normal:
     black:   '0x47494B'
     red:     '0xC43C53'

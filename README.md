@@ -3,6 +3,11 @@
 
 Repose is a design system made for text-heavy interfaces, such as text editors, terminals, and web pages. The colors are designed to be consistent in perceived brightness and easy on the eyes while remaining high-contrast.
 
+## Screenshots
+
+### Syntax Highlighting
+![](https://cdn.discordapp.com/attachments/736609346623897635/782305359917350962/unknown.png)
+
 ## Support
 Support for applications may vary. Most of the applications listed have the ability to be fully redesigned, but some (Notepad++, Visual Studio) can only be color themed.
 
@@ -22,13 +27,14 @@ Support for applications may vary. Most of the applications listed have the abil
   * [ ] iTerm2
   * [ ] GNOME Terminal
   * [ ] Konsole
-  * [ ] Kitty
+  * [x] Kitty (#2)
   * [ ] PuTTY
   * [ ] st
   * [ ] Termite
-  * [ ] urxvt
+  * [x] urxvt
   * [ ] xfce4-terminal
-  * [ ] xterm
+  * [x] xterm
+  * [x] Windows Terminal
 * **Text Editors**
   * [ ] Emacs
   * [ ] JetBrains Editors
@@ -42,7 +48,7 @@ Support for applications may vary. Most of the applications listed have the abil
   * [ ] GitHub
   * [ ] Google
     * [ ] Google Docs
-  * [ ] monkeytype
+  * [x] monkeytype ([in progress](https://github.com/Miodec/monkeytype/pull/674))
 * **Window Managers**
   * [ ] Openbox
   
